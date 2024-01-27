@@ -1,0 +1,1 @@
+INSERT INTO `role_tb` (`role_id`, `role_name`) VALUES (NULL, 'REPORTS');
